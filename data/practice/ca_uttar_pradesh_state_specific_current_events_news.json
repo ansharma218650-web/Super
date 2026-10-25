@@ -1,0 +1,605 @@
+{
+  "subject": "CA-Uttar Pradesh State-specific Current Events & News",
+  "questions": [
+    {
+      "id": "d9952590",
+      "question": "Which city in Uttar Pradesh is being developed as the country's first 'AI City'? / उत्तर प्रदेश के किस शहर को देश के पहले 'AI City' के रूप में विकसित किया जा रहा है?",
+      "options": [
+        "Kanpur / कानपुर",
+        "Varanasi / वाराणसी",
+        "Noida / नोएडा",
+        "Lucknow / लखनऊ"
+      ],
+      "answer": 3,
+      "explanation": "Lucknow is India's first AI City / लखनऊ देश का पहला एआई शहर है।"
+    },
+    {
+      "id": "1a18ee42",
+      "question": "Where was the Mahakumbh 2025 grandly organized in Uttar Pradesh? / उत्तर प्रदेश में महाकुंभ 2025 का भव्य आयोजन कहाँ किया गया?",
+      "options": [
+        "Prayagraj / प्रयागराज",
+        "Mathura / मथुरा",
+        "Ayodhya / अयोध्या",
+        "Varanasi / वाराणसी"
+      ],
+      "answer": 0,
+      "explanation": "Prayagraj hosted Mahakumbh 2025 / प्रयागराज में महाकुंभ हुआ।"
+    },
+    {
+      "id": "0feb3bcf",
+      "question": "Which UP district inaugurated the 'Jatayu Conservation Centre'? / उत्तर प्रदेश के किस जिले में जटायु संरक्षण केंद्र का उद्घाटन हुआ?",
+      "options": [
+        "Maharajganj / महाराजगंज",
+        "Gorakhpur / गोरखपुर",
+        "Bareilly / बरेली",
+        "Jhansi / झांसी"
+      ],
+      "answer": 0,
+      "explanation": "Maharajganj district / महाराजगंज जिला।"
+    },
+    {
+      "id": "653ad2d1",
+      "question": "Which UP city became India's first UNESCO 'City of Music'? / उत्तर प्रदेश का कौन सा शहर यूनेस्को 'संगीत का शहर' बना?",
+      "options": [
+        "Kanpur / कानपुर",
+        "Agra / आगरा",
+        "Varanasi / वाराणसी",
+        "Lucknow / लखनऊ"
+      ],
+      "answer": 2,
+      "explanation": "Varanasi / वाराणसी।"
+    },
+    {
+      "id": "0a62bee2",
+      "question": "What is the proposed name of the international airport in Ayodhya? / अयोध्या में अंतरराष्ट्रीय हवाई अड्डे का नाम क्या है?",
+      "options": [
+        "Ayodhya Dham Airport",
+        "Atal Airport",
+        "Shri Ram Airport",
+        "Maharishi Valmiki International Airport / महर्षि वाल्मीकि अंतरराष्ट्रीय हवाई अड्डा"
+      ],
+      "answer": 3,
+      "explanation": "Maharishi Valmiki / महर्षि वाल्मीकि।"
+    },
+    {
+      "id": "8c7e5bed",
+      "question": "Which district in UP is famous for 'One District One Product' - Horn & Bone crafts? / यूपी के किस जिले का ओडीओपी (ODOP) उत्पाद सींग और हड्डी के शिल्प से संबंधित है?",
+      "options": [
+        "Aligarh / अलीगढ़",
+        "Moradabad / मुरादाबाद",
+        "Sambhal / संभल",
+        "Rampur / रामपुर"
+      ],
+      "answer": 2,
+      "explanation": "Sambhal / संभल।"
+    },
+    {
+      "id": "7084fe27",
+      "question": "Which city in UP is being developed as a model solar city? / यूपी के किस शहर को मॉडल सोलर सिटी बनाया जा रहा है?",
+      "options": [
+        "Varanasi / वाराणसी",
+        "Kanpur / कानपुर",
+        "Ayodhya / अयोध्या",
+        "Agra / आगरा"
+      ],
+      "answer": 2,
+      "explanation": "Ayodhya / अयोध्या।"
+    },
+    {
+      "id": "8e5270b9",
+      "question": "Who is the Governor of Uttar Pradesh as of 2026? / 2026 में उत्तर प्रदेश की राज्यपाल कौन हैं?",
+      "options": [
+        "Anandiben Patel / आनंदीबेन पटेल",
+        "Acharya Devvrat",
+        "Yogi Adityanath",
+        "C.P. Radhakrishnan"
+      ],
+      "answer": 0,
+      "explanation": "Anandiben Patel / आनंदीबेन पटेल।"
+    },
+    {
+      "id": "3c2b7633",
+      "question": "Which expressway in UP is India's longest operational expressway corridor? / उत्तर प्रदेश में कौन सा एक्सप्रेसवे सबसे लंबा परिचालन गलियारा है?",
+      "options": [
+        "Yamuna Expressway",
+        "Ganga Expressway / गंगा एक्सप्रेसवे",
+        "Purvanchal Expressway",
+        "Bundelkhand Expressway"
+      ],
+      "answer": 1,
+      "explanation": "Ganga Expressway / गंगा एक्सप्रेसवे।"
+    },
+    {
+      "id": "4ed6d11b",
+      "question": "Where is the headquarters of the North Central Railway located in UP? / उत्तर प्रदेश में उत्तर मध्य रेलवे का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Gorakhpur / गोरखपुर",
+        "Kanpur / कानपुर",
+        "Prayagraj / प्रयागराज",
+        "Lucknow / लखनऊ"
+      ],
+      "answer": 2,
+      "explanation": "Prayagraj / प्रयागराज।"
+    },
+    {
+      "id": "82315557",
+      "question": "Which city in Uttar Pradesh is being developed as the country's first 'AI City'? / उत्तर प्रदेश के किस शहर को देश के पहले 'AI City' के रूप में विकसित किया जा रहा है?",
+      "options": [
+        "Varanasi / वाराणसी",
+        "Lucknow / लखनऊ",
+        "Noida / नोएडा",
+        "Kanpur / कानपुर"
+      ],
+      "answer": 1,
+      "explanation": "Lucknow is India's first AI City / लखनऊ देश का पहला एआई शहर है।"
+    },
+    {
+      "id": "67b62981",
+      "question": "Where was the Mahakumbh 2025 grandly organized in Uttar Pradesh? / उत्तर प्रदेश में महाकुंभ 2025 का भव्य आयोजन कहाँ किया गया?",
+      "options": [
+        "Mathura / मथुरा",
+        "Varanasi / वाराणसी",
+        "Prayagraj / प्रयागराज",
+        "Ayodhya / अयोध्या"
+      ],
+      "answer": 2,
+      "explanation": "Prayagraj hosted Mahakumbh 2025 / प्रयागराज में महाकुंभ हुआ।"
+    },
+    {
+      "id": "730c240a",
+      "question": "Which UP district inaugurated the 'Jatayu Conservation Centre'? / उत्तर प्रदेश के किस जिले में जटायु संरक्षण केंद्र का उद्घाटन हुआ?",
+      "options": [
+        "Maharajganj / महाराजगंज",
+        "Jhansi / झांसी",
+        "Gorakhpur / गोरखपुर",
+        "Bareilly / बरेली"
+      ],
+      "answer": 0,
+      "explanation": "Maharajganj district / महाराजगंज जिला।"
+    },
+    {
+      "id": "9d89e8eb",
+      "question": "Which UP city became India's first UNESCO 'City of Music'? / उत्तर प्रदेश का कौन सा शहर यूनेस्को 'संगीत का शहर' बना?",
+      "options": [
+        "Kanpur / कानपुर",
+        "Agra / आगरा",
+        "Lucknow / लखनऊ",
+        "Varanasi / वाराणसी"
+      ],
+      "answer": 3,
+      "explanation": "Varanasi / वाराणसी।"
+    },
+    {
+      "id": "17967e87",
+      "question": "What is the proposed name of the international airport in Ayodhya? / अयोध्या में अंतरराष्ट्रीय हवाई अड्डे का नाम क्या है?",
+      "options": [
+        "Atal Airport",
+        "Ayodhya Dham Airport",
+        "Shri Ram Airport",
+        "Maharishi Valmiki International Airport / महर्षि वाल्मीकि अंतरराष्ट्रीय हवाई अड्डा"
+      ],
+      "answer": 3,
+      "explanation": "Maharishi Valmiki / महर्षि वाल्मीकि।"
+    },
+    {
+      "id": "24255361",
+      "question": "Which district in UP is famous for 'One District One Product' - Horn & Bone crafts? / यूपी के किस जिले का ओडीओपी (ODOP) उत्पाद सींग और हड्डी के शिल्प से संबंधित है?",
+      "options": [
+        "Sambhal / संभल",
+        "Moradabad / मुरादाबाद",
+        "Aligarh / अलीगढ़",
+        "Rampur / रामपुर"
+      ],
+      "answer": 0,
+      "explanation": "Sambhal / संभल।"
+    },
+    {
+      "id": "44a8dbbe",
+      "question": "Which city in UP is being developed as a model solar city? / यूपी के किस शहर को मॉडल सोलर सिटी बनाया जा रहा है?",
+      "options": [
+        "Ayodhya / अयोध्या",
+        "Kanpur / कानपुर",
+        "Agra / आगरा",
+        "Varanasi / वाराणसी"
+      ],
+      "answer": 0,
+      "explanation": "Ayodhya / अयोध्या।"
+    },
+    {
+      "id": "d70bb9b0",
+      "question": "Who is the Governor of Uttar Pradesh as of 2026? / 2026 में उत्तर प्रदेश की राज्यपाल कौन हैं?",
+      "options": [
+        "Yogi Adityanath",
+        "Acharya Devvrat",
+        "C.P. Radhakrishnan",
+        "Anandiben Patel / आनंदीबेन पटेल"
+      ],
+      "answer": 3,
+      "explanation": "Anandiben Patel / आनंदीबेन पटेल।"
+    },
+    {
+      "id": "a3c6a38f",
+      "question": "Which expressway in UP is India's longest operational expressway corridor? / उत्तर प्रदेश में कौन सा एक्सप्रेसवे सबसे लंबा परिचालन गलियारा है?",
+      "options": [
+        "Bundelkhand Expressway",
+        "Purvanchal Expressway",
+        "Ganga Expressway / गंगा एक्सप्रेसवे",
+        "Yamuna Expressway"
+      ],
+      "answer": 2,
+      "explanation": "Ganga Expressway / गंगा एक्सप्रेसवे।"
+    },
+    {
+      "id": "4e71c8db",
+      "question": "Where is the headquarters of the North Central Railway located in UP? / उत्तर प्रदेश में उत्तर मध्य रेलवे का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Lucknow / लखनऊ",
+        "Prayagraj / प्रयागराज",
+        "Kanpur / कानपुर",
+        "Gorakhpur / गोरखपुर"
+      ],
+      "answer": 1,
+      "explanation": "Prayagraj / प्रयागराज।"
+    },
+    {
+      "id": "4d356213",
+      "question": "Which city in Uttar Pradesh is being developed as the country's first 'AI City'? / उत्तर प्रदेश के किस शहर को देश के पहले 'AI City' के रूप में विकसित किया जा रहा है?",
+      "options": [
+        "Noida / नोएडा",
+        "Kanpur / कानपुर",
+        "Lucknow / लखनऊ",
+        "Varanasi / वाराणसी"
+      ],
+      "answer": 2,
+      "explanation": "Lucknow is India's first AI City / लखनऊ देश का पहला एआई शहर है।"
+    },
+    {
+      "id": "3eb4a029",
+      "question": "Where was the Mahakumbh 2025 grandly organized in Uttar Pradesh? / उत्तर प्रदेश में महाकुंभ 2025 का भव्य आयोजन कहाँ किया गया?",
+      "options": [
+        "Prayagraj / प्रयागराज",
+        "Varanasi / वाराणसी",
+        "Ayodhya / अयोध्या",
+        "Mathura / मथुरा"
+      ],
+      "answer": 0,
+      "explanation": "Prayagraj hosted Mahakumbh 2025 / प्रयागराज में महाकुंभ हुआ।"
+    },
+    {
+      "id": "a5314b87",
+      "question": "Which UP district inaugurated the 'Jatayu Conservation Centre'? / उत्तर प्रदेश के किस जिले में जटायु संरक्षण केंद्र का उद्घाटन हुआ?",
+      "options": [
+        "Maharajganj / महाराजगंज",
+        "Gorakhpur / गोरखपुर",
+        "Jhansi / झांसी",
+        "Bareilly / बरेली"
+      ],
+      "answer": 0,
+      "explanation": "Maharajganj district / महाराजगंज जिला।"
+    },
+    {
+      "id": "9cb9becc",
+      "question": "Which UP city became India's first UNESCO 'City of Music'? / उत्तर प्रदेश का कौन सा शहर यूनेस्को 'संगीत का शहर' बना?",
+      "options": [
+        "Varanasi / वाराणसी",
+        "Lucknow / लखनऊ",
+        "Kanpur / कानपुर",
+        "Agra / आगरा"
+      ],
+      "answer": 0,
+      "explanation": "Varanasi / वाराणसी।"
+    },
+    {
+      "id": "b7e882c6",
+      "question": "What is the proposed name of the international airport in Ayodhya? / अयोध्या में अंतरराष्ट्रीय हवाई अड्डे का नाम क्या है?",
+      "options": [
+        "Ayodhya Dham Airport",
+        "Maharishi Valmiki International Airport / महर्षि वाल्मीकि अंतरराष्ट्रीय हवाई अड्डा",
+        "Shri Ram Airport",
+        "Atal Airport"
+      ],
+      "answer": 1,
+      "explanation": "Maharishi Valmiki / महर्षि वाल्मीकि।"
+    },
+    {
+      "id": "ac8fe357",
+      "question": "Which district in UP is famous for 'One District One Product' - Horn & Bone crafts? / यूपी के किस जिले का ओडीओपी (ODOP) उत्पाद सींग और हड्डी के शिल्प से संबंधित है?",
+      "options": [
+        "Rampur / रामपुर",
+        "Sambhal / संभल",
+        "Moradabad / मुरादाबाद",
+        "Aligarh / अलीगढ़"
+      ],
+      "answer": 1,
+      "explanation": "Sambhal / संभल।"
+    },
+    {
+      "id": "511d8d44",
+      "question": "Which city in UP is being developed as a model solar city? / यूपी के किस शहर को मॉडल सोलर सिटी बनाया जा रहा है?",
+      "options": [
+        "Agra / आगरा",
+        "Kanpur / कानपुर",
+        "Varanasi / वाराणसी",
+        "Ayodhya / अयोध्या"
+      ],
+      "answer": 3,
+      "explanation": "Ayodhya / अयोध्या।"
+    },
+    {
+      "id": "4dc79311",
+      "question": "Who is the Governor of Uttar Pradesh as of 2026? / 2026 में उत्तर प्रदेश की राज्यपाल कौन हैं?",
+      "options": [
+        "C.P. Radhakrishnan",
+        "Anandiben Patel / आनंदीबेन पटेल",
+        "Yogi Adityanath",
+        "Acharya Devvrat"
+      ],
+      "answer": 1,
+      "explanation": "Anandiben Patel / आनंदीबेन पटेल।"
+    },
+    {
+      "id": "b2fcc9ef",
+      "question": "Which expressway in UP is India's longest operational expressway corridor? / उत्तर प्रदेश में कौन सा एक्सप्रेसवे सबसे लंबा परिचालन गलियारा है?",
+      "options": [
+        "Ganga Expressway / गंगा एक्सप्रेसवे",
+        "Yamuna Expressway",
+        "Bundelkhand Expressway",
+        "Purvanchal Expressway"
+      ],
+      "answer": 0,
+      "explanation": "Ganga Expressway / गंगा एक्सप्रेसवे।"
+    },
+    {
+      "id": "6556922c",
+      "question": "Where is the headquarters of the North Central Railway located in UP? / उत्तर प्रदेश में उत्तर मध्य रेलवे का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Prayagraj / प्रयागराज",
+        "Kanpur / कानपुर",
+        "Lucknow / लखनऊ",
+        "Gorakhpur / गोरखपुर"
+      ],
+      "answer": 0,
+      "explanation": "Prayagraj / प्रयागराज।"
+    },
+    {
+      "id": "2cb486fe",
+      "question": "Which city in Uttar Pradesh is being developed as the country's first 'AI City'? / उत्तर प्रदेश के किस शहर को देश के पहले 'AI City' के रूप में विकसित किया जा रहा है?",
+      "options": [
+        "Noida / नोएडा",
+        "Lucknow / लखनऊ",
+        "Kanpur / कानपुर",
+        "Varanasi / वाराणसी"
+      ],
+      "answer": 1,
+      "explanation": "Lucknow is India's first AI City / लखनऊ देश का पहला एआई शहर है।"
+    },
+    {
+      "id": "5ef12298",
+      "question": "Where was the Mahakumbh 2025 grandly organized in Uttar Pradesh? / उत्तर प्रदेश में महाकुंभ 2025 का भव्य आयोजन कहाँ किया गया?",
+      "options": [
+        "Prayagraj / प्रयागराज",
+        "Mathura / मथुरा",
+        "Varanasi / वाराणसी",
+        "Ayodhya / अयोध्या"
+      ],
+      "answer": 0,
+      "explanation": "Prayagraj hosted Mahakumbh 2025 / प्रयागराज में महाकुंभ हुआ।"
+    },
+    {
+      "id": "7a33b827",
+      "question": "Which UP district inaugurated the 'Jatayu Conservation Centre'? / उत्तर प्रदेश के किस जिले में जटायु संरक्षण केंद्र का उद्घाटन हुआ?",
+      "options": [
+        "Jhansi / झांसी",
+        "Bareilly / बरेली",
+        "Gorakhpur / गोरखपुर",
+        "Maharajganj / महाराजगंज"
+      ],
+      "answer": 3,
+      "explanation": "Maharajganj district / महाराजगंज जिला।"
+    },
+    {
+      "id": "e30258c2",
+      "question": "Which UP city became India's first UNESCO 'City of Music'? / उत्तर प्रदेश का कौन सा शहर यूनेस्को 'संगीत का शहर' बना?",
+      "options": [
+        "Agra / आगरा",
+        "Lucknow / लखनऊ",
+        "Varanasi / वाराणसी",
+        "Kanpur / कानपुर"
+      ],
+      "answer": 2,
+      "explanation": "Varanasi / वाराणसी।"
+    },
+    {
+      "id": "27e2d358",
+      "question": "What is the proposed name of the international airport in Ayodhya? / अयोध्या में अंतरराष्ट्रीय हवाई अड्डे का नाम क्या है?",
+      "options": [
+        "Ayodhya Dham Airport",
+        "Shri Ram Airport",
+        "Maharishi Valmiki International Airport / महर्षि वाल्मीकि अंतरराष्ट्रीय हवाई अड्डा",
+        "Atal Airport"
+      ],
+      "answer": 2,
+      "explanation": "Maharishi Valmiki / महर्षि वाल्मीकि।"
+    },
+    {
+      "id": "3c42c383",
+      "question": "Which district in UP is famous for 'One District One Product' - Horn & Bone crafts? / यूपी के किस जिले का ओडीओपी (ODOP) उत्पाद सींग और हड्डी के शिल्प से संबंधित है?",
+      "options": [
+        "Aligarh / अलीगढ़",
+        "Sambhal / संभल",
+        "Moradabad / मुरादाबाद",
+        "Rampur / रामपुर"
+      ],
+      "answer": 1,
+      "explanation": "Sambhal / संभल।"
+    },
+    {
+      "id": "5a54f61f",
+      "question": "Which city in UP is being developed as a model solar city? / यूपी के किस शहर को मॉडल सोलर सिटी बनाया जा रहा है?",
+      "options": [
+        "Ayodhya / अयोध्या",
+        "Varanasi / वाराणसी",
+        "Agra / आगरा",
+        "Kanpur / कानपुर"
+      ],
+      "answer": 0,
+      "explanation": "Ayodhya / अयोध्या।"
+    },
+    {
+      "id": "4e1a43e2",
+      "question": "Who is the Governor of Uttar Pradesh as of 2026? / 2026 में उत्तर प्रदेश की राज्यपाल कौन हैं?",
+      "options": [
+        "C.P. Radhakrishnan",
+        "Anandiben Patel / आनंदीबेन पटेल",
+        "Acharya Devvrat",
+        "Yogi Adityanath"
+      ],
+      "answer": 1,
+      "explanation": "Anandiben Patel / आनंदीबेन पटेल।"
+    },
+    {
+      "id": "f8e70257",
+      "question": "Which expressway in UP is India's longest operational expressway corridor? / उत्तर प्रदेश में कौन सा एक्सप्रेसवे सबसे लंबा परिचालन गलियारा है?",
+      "options": [
+        "Purvanchal Expressway",
+        "Yamuna Expressway",
+        "Bundelkhand Expressway",
+        "Ganga Expressway / गंगा एक्सप्रेसवे"
+      ],
+      "answer": 3,
+      "explanation": "Ganga Expressway / गंगा एक्सप्रेसवे।"
+    },
+    {
+      "id": "5ba57f2a",
+      "question": "Where is the headquarters of the North Central Railway located in UP? / उत्तर प्रदेश में उत्तर मध्य रेलवे का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Kanpur / कानपुर",
+        "Gorakhpur / गोरखपुर",
+        "Lucknow / लखनऊ",
+        "Prayagraj / प्रयागराज"
+      ],
+      "answer": 3,
+      "explanation": "Prayagraj / प्रयागराज।"
+    },
+    {
+      "id": "ff2c6a89",
+      "question": "Which city in Uttar Pradesh is being developed as the country's first 'AI City'? / उत्तर प्रदेश के किस शहर को देश के पहले 'AI City' के रूप में विकसित किया जा रहा है?",
+      "options": [
+        "Varanasi / वाराणसी",
+        "Kanpur / कानपुर",
+        "Lucknow / लखनऊ",
+        "Noida / नोएडा"
+      ],
+      "answer": 2,
+      "explanation": "Lucknow is India's first AI City / लखनऊ देश का पहला एआई शहर है।"
+    },
+    {
+      "id": "f21a5eb5",
+      "question": "Where was the Mahakumbh 2025 grandly organized in Uttar Pradesh? / उत्तर प्रदेश में महाकुंभ 2025 का भव्य आयोजन कहाँ किया गया?",
+      "options": [
+        "Prayagraj / प्रयागराज",
+        "Varanasi / वाराणसी",
+        "Mathura / मथुरा",
+        "Ayodhya / अयोध्या"
+      ],
+      "answer": 0,
+      "explanation": "Prayagraj hosted Mahakumbh 2025 / प्रयागराज में महाकुंभ हुआ।"
+    },
+    {
+      "id": "35ded91d",
+      "question": "Which UP district inaugurated the 'Jatayu Conservation Centre'? / उत्तर प्रदेश के किस जिले में जटायु संरक्षण केंद्र का उद्घाटन हुआ?",
+      "options": [
+        "Bareilly / बरेली",
+        "Jhansi / झांसी",
+        "Maharajganj / महाराजगंज",
+        "Gorakhpur / गोरखपुर"
+      ],
+      "answer": 2,
+      "explanation": "Maharajganj district / महाराजगंज जिला।"
+    },
+    {
+      "id": "6808359f",
+      "question": "Which UP city became India's first UNESCO 'City of Music'? / उत्तर प्रदेश का कौन सा शहर यूनेस्को 'संगीत का शहर' बना?",
+      "options": [
+        "Lucknow / लखनऊ",
+        "Varanasi / वाराणसी",
+        "Agra / आगरा",
+        "Kanpur / कानपुर"
+      ],
+      "answer": 1,
+      "explanation": "Varanasi / वाराणसी।"
+    },
+    {
+      "id": "060eb2bf",
+      "question": "What is the proposed name of the international airport in Ayodhya? / अयोध्या में अंतरराष्ट्रीय हवाई अड्डे का नाम क्या है?",
+      "options": [
+        "Ayodhya Dham Airport",
+        "Maharishi Valmiki International Airport / महर्षि वाल्मीकि अंतरराष्ट्रीय हवाई अड्डा",
+        "Atal Airport",
+        "Shri Ram Airport"
+      ],
+      "answer": 1,
+      "explanation": "Maharishi Valmiki / महर्षि वाल्मीकि।"
+    },
+    {
+      "id": "17210c97",
+      "question": "Which district in UP is famous for 'One District One Product' - Horn & Bone crafts? / यूपी के किस जिले का ओडीओपी (ODOP) उत्पाद सींग और हड्डी के शिल्प से संबंधित है?",
+      "options": [
+        "Rampur / रामपुर",
+        "Moradabad / मुरादाबाद",
+        "Sambhal / संभल",
+        "Aligarh / अलीगढ़"
+      ],
+      "answer": 2,
+      "explanation": "Sambhal / संभल।"
+    },
+    {
+      "id": "7aee9093",
+      "question": "Which city in UP is being developed as a model solar city? / यूपी के किस शहर को मॉडल सोलर सिटी बनाया जा रहा है?",
+      "options": [
+        "Agra / आगरा",
+        "Varanasi / वाराणसी",
+        "Ayodhya / अयोध्या",
+        "Kanpur / कानपुर"
+      ],
+      "answer": 2,
+      "explanation": "Ayodhya / अयोध्या।"
+    },
+    {
+      "id": "aa0238b0",
+      "question": "Who is the Governor of Uttar Pradesh as of 2026? / 2026 में उत्तर प्रदेश की राज्यपाल कौन हैं?",
+      "options": [
+        "C.P. Radhakrishnan",
+        "Anandiben Patel / आनंदीबेन पटेल",
+        "Yogi Adityanath",
+        "Acharya Devvrat"
+      ],
+      "answer": 1,
+      "explanation": "Anandiben Patel / आनंदीबेन पटेल।"
+    },
+    {
+      "id": "4e89993a",
+      "question": "Which expressway in UP is India's longest operational expressway corridor? / उत्तर प्रदेश में कौन सा एक्सप्रेसवे सबसे लंबा परिचालन गलियारा है?",
+      "options": [
+        "Purvanchal Expressway",
+        "Ganga Expressway / गंगा एक्सप्रेसवे",
+        "Bundelkhand Expressway",
+        "Yamuna Expressway"
+      ],
+      "answer": 1,
+      "explanation": "Ganga Expressway / गंगा एक्सप्रेसवे।"
+    },
+    {
+      "id": "42300960",
+      "question": "Where is the headquarters of the North Central Railway located in UP? / उत्तर प्रदेश में उत्तर मध्य रेलवे का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Lucknow / लखनऊ",
+        "Gorakhpur / गोरखपुर",
+        "Kanpur / कानपुर",
+        "Prayagraj / प्रयागराज"
+      ],
+      "answer": 3,
+      "explanation": "Prayagraj / प्रयागराज।"
+    }
+  ]
+}

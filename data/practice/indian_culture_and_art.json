@@ -1,0 +1,605 @@
+{
+  "subject": "Indian Culture and Art",
+  "questions": [
+    {
+      "id": "17bcd5b2",
+      "question": "Which classical dance form originates from Kerala? / कथकली और मोहिनीअट्टम किस राज्य के शास्त्रीय नृत्य हैं?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala / केरल",
+        "Andhra Pradesh",
+        "Uttar Pradesh"
+      ],
+      "answer": 1,
+      "explanation": "Kathakali and Mohiniyattam from Kerala / केरल के नृत्य हैं।"
+    },
+    {
+      "id": "2167f4ac",
+      "question": "Where are the world-famous Ajanta and Ellora Caves located? / विश्व प्रसिद्ध अजंता और एलोरा की गुफाएँ कहाँ स्थित हैं?",
+      "options": [
+        "Maharashtra / महाराष्ट्र",
+        "Odisha",
+        "Madhya Pradesh",
+        "Karnataka"
+      ],
+      "answer": 0,
+      "explanation": "Located in Aurangabad, Maharashtra / महाराष्ट्र में स्थित हैं।"
+    },
+    {
+      "id": "abefe20d",
+      "question": "Which classical dance form originates from Uttar Pradesh? / उत्तर प्रदेश का शास्त्रीय नृत्य कौन सा है?",
+      "options": [
+        "Odissi",
+        "Kathak / कथक",
+        "Bharatanatyam",
+        "Kuchipudi"
+      ],
+      "answer": 1,
+      "explanation": "Kathak is from UP / कथक उत्तर प्रदेश का है।"
+    },
+    {
+      "id": "04cc24a5",
+      "question": "Who built the famous Sun Temple at Konark, Odisha? / ओडिशा के कोणार्क में प्रसिद्ध सूर्य मंदिर का निर्माण किसने करवाया था?",
+      "options": [
+        "Emperor Ashoka",
+        "Krishnadevaraya",
+        "Kharavela",
+        "King Narasimhadeva I / राजा नरसिंहदेव प्रथम"
+      ],
+      "answer": 3,
+      "explanation": "Built by Ganga dynasty ruler Narasimhadeva I / नरसिंहदेव प्रथम द्वारा।"
+    },
+    {
+      "id": "0c280fef",
+      "question": "Which festival is known as the festival of lights in India? / भारत में दीपों का उत्सव किसे कहा जाता है?",
+      "options": [
+        "Diwali / दीपावली",
+        "Holi",
+        "Pongal",
+        "Dussehra"
+      ],
+      "answer": 0,
+      "explanation": "Diwali (Deepawali) / दीपावली।"
+    },
+    {
+      "id": "faf5f4ce",
+      "question": "Which Indian musical instrument is Pandit Ravi Shankar associated with? / पंडित रविशंकर किस वाद्ययंत्र से संबंधित थे?",
+      "options": [
+        "Sarod",
+        "Tabla",
+        "Flute",
+        "Sitar / सितार"
+      ],
+      "answer": 3,
+      "explanation": "Associated with Sitar / सितार वादक थे।"
+    },
+    {
+      "id": "c2e5d488",
+      "question": "Where is the Khajuraho Group of Monuments located? / खजुराहो के स्मारक कहाँ स्थित हैं?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Uttar Pradesh",
+        "Madhya Pradesh / मध्य प्रदेश"
+      ],
+      "answer": 3,
+      "explanation": "Located in MP / मध्य प्रदेश में स्थित हैं।"
+    },
+    {
+      "id": "1266fdc6",
+      "question": "What is the traditional dance of Andhra Pradesh? / आंध्र प्रदेश का शास्त्रीय नृत्य कौन सा है?",
+      "options": [
+        "Kathak",
+        "Kuchipudi / कुचिपुडी",
+        "Manipuri",
+        "Bharatanatyam"
+      ],
+      "answer": 1,
+      "explanation": "Kuchipudi / कुचिपुडी।"
+    },
+    {
+      "id": "cad74b93",
+      "question": "Which ancient Indian epic was written by Maharishi Ved Vyas? / महर्षि वेद व्यास द्वारा रचित प्राचीन महाकाव्य कौन सा है?",
+      "options": [
+        "Mahabharata / महाभारत",
+        "Meghdoot",
+        "Raghuvamsha",
+        "Ramayana"
+      ],
+      "answer": 0,
+      "explanation": "Mahabharata / महाभारत।"
+    },
+    {
+      "id": "4acb63ad",
+      "question": "Which city hosts the famous 'Durga Puja' celebrations recognized by UNESCO? / यूनेस्को मान्यता प्राप्त प्रसिद्ध 'दुर्गा पूजा' उत्सव कहाँ मुख्य रूप से मनाया जाता है?",
+      "options": [
+        "Kolkata, West Bengal / कोलकाता, पश्चिम बंगाल",
+        "Chennai",
+        "Delhi",
+        "Mumbai"
+      ],
+      "answer": 0,
+      "explanation": "Kolkata, West Bengal / कोलकाता, पश्चिम बंगाल।"
+    },
+    {
+      "id": "9384419f",
+      "question": "Which classical dance form originates from Kerala? / कथकली और मोहिनीअट्टम किस राज्य के शास्त्रीय नृत्य हैं?",
+      "options": [
+        "Kerala / केरल",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Andhra Pradesh"
+      ],
+      "answer": 0,
+      "explanation": "Kathakali and Mohiniyattam from Kerala / केरल के नृत्य हैं।"
+    },
+    {
+      "id": "cc5a58e9",
+      "question": "Where are the world-famous Ajanta and Ellora Caves located? / विश्व प्रसिद्ध अजंता और एलोरा की गुफाएँ कहाँ स्थित हैं?",
+      "options": [
+        "Odisha",
+        "Karnataka",
+        "Maharashtra / महाराष्ट्र",
+        "Madhya Pradesh"
+      ],
+      "answer": 2,
+      "explanation": "Located in Aurangabad, Maharashtra / महाराष्ट्र में स्थित हैं।"
+    },
+    {
+      "id": "271f0a35",
+      "question": "Which classical dance form originates from Uttar Pradesh? / उत्तर प्रदेश का शास्त्रीय नृत्य कौन सा है?",
+      "options": [
+        "Odissi",
+        "Kuchipudi",
+        "Kathak / कथक",
+        "Bharatanatyam"
+      ],
+      "answer": 2,
+      "explanation": "Kathak is from UP / कथक उत्तर प्रदेश का है।"
+    },
+    {
+      "id": "6b1eca66",
+      "question": "Who built the famous Sun Temple at Konark, Odisha? / ओडिशा के कोणार्क में प्रसिद्ध सूर्य मंदिर का निर्माण किसने करवाया था?",
+      "options": [
+        "Krishnadevaraya",
+        "Kharavela",
+        "Emperor Ashoka",
+        "King Narasimhadeva I / राजा नरसिंहदेव प्रथम"
+      ],
+      "answer": 3,
+      "explanation": "Built by Ganga dynasty ruler Narasimhadeva I / नरसिंहदेव प्रथम द्वारा।"
+    },
+    {
+      "id": "e2ba1b26",
+      "question": "Which festival is known as the festival of lights in India? / भारत में दीपों का उत्सव किसे कहा जाता है?",
+      "options": [
+        "Dussehra",
+        "Pongal",
+        "Diwali / दीपावली",
+        "Holi"
+      ],
+      "answer": 2,
+      "explanation": "Diwali (Deepawali) / दीपावली।"
+    },
+    {
+      "id": "aefb0d28",
+      "question": "Which Indian musical instrument is Pandit Ravi Shankar associated with? / पंडित रविशंकर किस वाद्ययंत्र से संबंधित थे?",
+      "options": [
+        "Tabla",
+        "Sarod",
+        "Sitar / सितार",
+        "Flute"
+      ],
+      "answer": 2,
+      "explanation": "Associated with Sitar / सितार वादक थे।"
+    },
+    {
+      "id": "b8f388a3",
+      "question": "Where is the Khajuraho Group of Monuments located? / खजुराहो के स्मारक कहाँ स्थित हैं?",
+      "options": [
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Uttar Pradesh"
+      ],
+      "answer": 2,
+      "explanation": "Located in MP / मध्य प्रदेश में स्थित हैं।"
+    },
+    {
+      "id": "72245823",
+      "question": "What is the traditional dance of Andhra Pradesh? / आंध्र प्रदेश का शास्त्रीय नृत्य कौन सा है?",
+      "options": [
+        "Manipuri",
+        "Kuchipudi / कुचिपुडी",
+        "Kathak",
+        "Bharatanatyam"
+      ],
+      "answer": 1,
+      "explanation": "Kuchipudi / कुचिपुडी।"
+    },
+    {
+      "id": "89089ccf",
+      "question": "Which ancient Indian epic was written by Maharishi Ved Vyas? / महर्षि वेद व्यास द्वारा रचित प्राचीन महाकाव्य कौन सा है?",
+      "options": [
+        "Mahabharata / महाभारत",
+        "Ramayana",
+        "Meghdoot",
+        "Raghuvamsha"
+      ],
+      "answer": 0,
+      "explanation": "Mahabharata / महाभारत।"
+    },
+    {
+      "id": "d8f91711",
+      "question": "Which city hosts the famous 'Durga Puja' celebrations recognized by UNESCO? / यूनेस्को मान्यता प्राप्त प्रसिद्ध 'दुर्गा पूजा' उत्सव कहाँ मुख्य रूप से मनाया जाता है?",
+      "options": [
+        "Delhi",
+        "Chennai",
+        "Mumbai",
+        "Kolkata, West Bengal / कोलकाता, पश्चिम बंगाल"
+      ],
+      "answer": 3,
+      "explanation": "Kolkata, West Bengal / कोलकाता, पश्चिम बंगाल।"
+    },
+    {
+      "id": "6b310752",
+      "question": "Which classical dance form originates from Kerala? / कथकली और मोहिनीअट्टम किस राज्य के शास्त्रीय नृत्य हैं?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala / केरल",
+        "Uttar Pradesh",
+        "Andhra Pradesh"
+      ],
+      "answer": 1,
+      "explanation": "Kathakali and Mohiniyattam from Kerala / केरल के नृत्य हैं।"
+    },
+    {
+      "id": "e7962992",
+      "question": "Where are the world-famous Ajanta and Ellora Caves located? / विश्व प्रसिद्ध अजंता और एलोरा की गुफाएँ कहाँ स्थित हैं?",
+      "options": [
+        "Maharashtra / महाराष्ट्र",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Odisha"
+      ],
+      "answer": 0,
+      "explanation": "Located in Aurangabad, Maharashtra / महाराष्ट्र में स्थित हैं।"
+    },
+    {
+      "id": "880fe23b",
+      "question": "Which classical dance form originates from Uttar Pradesh? / उत्तर प्रदेश का शास्त्रीय नृत्य कौन सा है?",
+      "options": [
+        "Kuchipudi",
+        "Kathak / कथक",
+        "Odissi",
+        "Bharatanatyam"
+      ],
+      "answer": 1,
+      "explanation": "Kathak is from UP / कथक उत्तर प्रदेश का है।"
+    },
+    {
+      "id": "61270a5f",
+      "question": "Who built the famous Sun Temple at Konark, Odisha? / ओडिशा के कोणार्क में प्रसिद्ध सूर्य मंदिर का निर्माण किसने करवाया था?",
+      "options": [
+        "Kharavela",
+        "Krishnadevaraya",
+        "Emperor Ashoka",
+        "King Narasimhadeva I / राजा नरसिंहदेव प्रथम"
+      ],
+      "answer": 3,
+      "explanation": "Built by Ganga dynasty ruler Narasimhadeva I / नरसिंहदेव प्रथम द्वारा।"
+    },
+    {
+      "id": "7d934d79",
+      "question": "Which festival is known as the festival of lights in India? / भारत में दीपों का उत्सव किसे कहा जाता है?",
+      "options": [
+        "Dussehra",
+        "Holi",
+        "Pongal",
+        "Diwali / दीपावली"
+      ],
+      "answer": 3,
+      "explanation": "Diwali (Deepawali) / दीपावली।"
+    },
+    {
+      "id": "aa4fb7b6",
+      "question": "Which Indian musical instrument is Pandit Ravi Shankar associated with? / पंडित रविशंकर किस वाद्ययंत्र से संबंधित थे?",
+      "options": [
+        "Tabla",
+        "Sitar / सितार",
+        "Sarod",
+        "Flute"
+      ],
+      "answer": 1,
+      "explanation": "Associated with Sitar / सितार वादक थे।"
+    },
+    {
+      "id": "e2fbdbc2",
+      "question": "Where is the Khajuraho Group of Monuments located? / खजुराहो के स्मारक कहाँ स्थित हैं?",
+      "options": [
+        "Gujarat",
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "answer": 1,
+      "explanation": "Located in MP / मध्य प्रदेश में स्थित हैं।"
+    },
+    {
+      "id": "06ec547e",
+      "question": "What is the traditional dance of Andhra Pradesh? / आंध्र प्रदेश का शास्त्रीय नृत्य कौन सा है?",
+      "options": [
+        "Manipuri",
+        "Kathak",
+        "Bharatanatyam",
+        "Kuchipudi / कुचिपुडी"
+      ],
+      "answer": 3,
+      "explanation": "Kuchipudi / कुचिपुडी।"
+    },
+    {
+      "id": "ef3c3908",
+      "question": "Which ancient Indian epic was written by Maharishi Ved Vyas? / महर्षि वेद व्यास द्वारा रचित प्राचीन महाकाव्य कौन सा है?",
+      "options": [
+        "Raghuvamsha",
+        "Meghdoot",
+        "Mahabharata / महाभारत",
+        "Ramayana"
+      ],
+      "answer": 2,
+      "explanation": "Mahabharata / महाभारत।"
+    },
+    {
+      "id": "904515bd",
+      "question": "Which city hosts the famous 'Durga Puja' celebrations recognized by UNESCO? / यूनेस्को मान्यता प्राप्त प्रसिद्ध 'दुर्गा पूजा' उत्सव कहाँ मुख्य रूप से मनाया जाता है?",
+      "options": [
+        "Kolkata, West Bengal / कोलकाता, पश्चिम बंगाल",
+        "Chennai",
+        "Delhi",
+        "Mumbai"
+      ],
+      "answer": 0,
+      "explanation": "Kolkata, West Bengal / कोलकाता, पश्चिम बंगाल।"
+    },
+    {
+      "id": "0fcad173",
+      "question": "Which classical dance form originates from Kerala? / कथकली और मोहिनीअट्टम किस राज्य के शास्त्रीय नृत्य हैं?",
+      "options": [
+        "Andhra Pradesh",
+        "Kerala / केरल",
+        "Uttar Pradesh",
+        "Tamil Nadu"
+      ],
+      "answer": 1,
+      "explanation": "Kathakali and Mohiniyattam from Kerala / केरल के नृत्य हैं।"
+    },
+    {
+      "id": "2875818a",
+      "question": "Where are the world-famous Ajanta and Ellora Caves located? / विश्व प्रसिद्ध अजंता और एलोरा की गुफाएँ कहाँ स्थित हैं?",
+      "options": [
+        "Maharashtra / महाराष्ट्र",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Odisha"
+      ],
+      "answer": 0,
+      "explanation": "Located in Aurangabad, Maharashtra / महाराष्ट्र में स्थित हैं।"
+    },
+    {
+      "id": "66592d7e",
+      "question": "Which classical dance form originates from Uttar Pradesh? / उत्तर प्रदेश का शास्त्रीय नृत्य कौन सा है?",
+      "options": [
+        "Kuchipudi",
+        "Kathak / कथक",
+        "Bharatanatyam",
+        "Odissi"
+      ],
+      "answer": 1,
+      "explanation": "Kathak is from UP / कथक उत्तर प्रदेश का है।"
+    },
+    {
+      "id": "422a6abf",
+      "question": "Who built the famous Sun Temple at Konark, Odisha? / ओडिशा के कोणार्क में प्रसिद्ध सूर्य मंदिर का निर्माण किसने करवाया था?",
+      "options": [
+        "King Narasimhadeva I / राजा नरसिंहदेव प्रथम",
+        "Emperor Ashoka",
+        "Krishnadevaraya",
+        "Kharavela"
+      ],
+      "answer": 0,
+      "explanation": "Built by Ganga dynasty ruler Narasimhadeva I / नरसिंहदेव प्रथम द्वारा।"
+    },
+    {
+      "id": "2275673d",
+      "question": "Which festival is known as the festival of lights in India? / भारत में दीपों का उत्सव किसे कहा जाता है?",
+      "options": [
+        "Holi",
+        "Dussehra",
+        "Diwali / दीपावली",
+        "Pongal"
+      ],
+      "answer": 2,
+      "explanation": "Diwali (Deepawali) / दीपावली।"
+    },
+    {
+      "id": "d455b762",
+      "question": "Which Indian musical instrument is Pandit Ravi Shankar associated with? / पंडित रविशंकर किस वाद्ययंत्र से संबंधित थे?",
+      "options": [
+        "Tabla",
+        "Flute",
+        "Sitar / सितार",
+        "Sarod"
+      ],
+      "answer": 2,
+      "explanation": "Associated with Sitar / सितार वादक थे।"
+    },
+    {
+      "id": "49edb95d",
+      "question": "Where is the Khajuraho Group of Monuments located? / खजुराहो के स्मारक कहाँ स्थित हैं?",
+      "options": [
+        "Uttar Pradesh",
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Gujarat",
+        "Rajasthan"
+      ],
+      "answer": 1,
+      "explanation": "Located in MP / मध्य प्रदेश में स्थित हैं।"
+    },
+    {
+      "id": "7a458721",
+      "question": "What is the traditional dance of Andhra Pradesh? / आंध्र प्रदेश का शास्त्रीय नृत्य कौन सा है?",
+      "options": [
+        "Bharatanatyam",
+        "Kathak",
+        "Manipuri",
+        "Kuchipudi / कुचिपुडी"
+      ],
+      "answer": 3,
+      "explanation": "Kuchipudi / कुचिपुडी।"
+    },
+    {
+      "id": "f931736b",
+      "question": "Which ancient Indian epic was written by Maharishi Ved Vyas? / महर्षि वेद व्यास द्वारा रचित प्राचीन महाकाव्य कौन सा है?",
+      "options": [
+        "Meghdoot",
+        "Ramayana",
+        "Mahabharata / महाभारत",
+        "Raghuvamsha"
+      ],
+      "answer": 2,
+      "explanation": "Mahabharata / महाभारत।"
+    },
+    {
+      "id": "3cc34ae6",
+      "question": "Which city hosts the famous 'Durga Puja' celebrations recognized by UNESCO? / यूनेस्को मान्यता प्राप्त प्रसिद्ध 'दुर्गा पूजा' उत्सव कहाँ मुख्य रूप से मनाया जाता है?",
+      "options": [
+        "Mumbai",
+        "Chennai",
+        "Delhi",
+        "Kolkata, West Bengal / कोलकाता, पश्चिम बंगाल"
+      ],
+      "answer": 3,
+      "explanation": "Kolkata, West Bengal / कोलकाता, पश्चिम बंगाल।"
+    },
+    {
+      "id": "a6fc10f1",
+      "question": "Which classical dance form originates from Kerala? / कथकली और मोहिनीअट्टम किस राज्य के शास्त्रीय नृत्य हैं?",
+      "options": [
+        "Kerala / केरल",
+        "Uttar Pradesh",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "answer": 0,
+      "explanation": "Kathakali and Mohiniyattam from Kerala / केरल के नृत्य हैं।"
+    },
+    {
+      "id": "f50fde8c",
+      "question": "Where are the world-famous Ajanta and Ellora Caves located? / विश्व प्रसिद्ध अजंता और एलोरा की गुफाएँ कहाँ स्थित हैं?",
+      "options": [
+        "Karnataka",
+        "Madhya Pradesh",
+        "Maharashtra / महाराष्ट्र",
+        "Odisha"
+      ],
+      "answer": 2,
+      "explanation": "Located in Aurangabad, Maharashtra / महाराष्ट्र में स्थित हैं।"
+    },
+    {
+      "id": "4cc18627",
+      "question": "Which classical dance form originates from Uttar Pradesh? / उत्तर प्रदेश का शास्त्रीय नृत्य कौन सा है?",
+      "options": [
+        "Kathak / कथक",
+        "Kuchipudi",
+        "Bharatanatyam",
+        "Odissi"
+      ],
+      "answer": 0,
+      "explanation": "Kathak is from UP / कथक उत्तर प्रदेश का है।"
+    },
+    {
+      "id": "b951248c",
+      "question": "Who built the famous Sun Temple at Konark, Odisha? / ओडिशा के कोणार्क में प्रसिद्ध सूर्य मंदिर का निर्माण किसने करवाया था?",
+      "options": [
+        "Emperor Ashoka",
+        "Kharavela",
+        "King Narasimhadeva I / राजा नरसिंहदेव प्रथम",
+        "Krishnadevaraya"
+      ],
+      "answer": 2,
+      "explanation": "Built by Ganga dynasty ruler Narasimhadeva I / नरसिंहदेव प्रथम द्वारा।"
+    },
+    {
+      "id": "a0ee5c95",
+      "question": "Which festival is known as the festival of lights in India? / भारत में दीपों का उत्सव किसे कहा जाता है?",
+      "options": [
+        "Pongal",
+        "Diwali / दीपावली",
+        "Dussehra",
+        "Holi"
+      ],
+      "answer": 1,
+      "explanation": "Diwali (Deepawali) / दीपावली।"
+    },
+    {
+      "id": "d97a484f",
+      "question": "Which Indian musical instrument is Pandit Ravi Shankar associated with? / पंडित रविशंकर किस वाद्ययंत्र से संबंधित थे?",
+      "options": [
+        "Sitar / सितार",
+        "Tabla",
+        "Sarod",
+        "Flute"
+      ],
+      "answer": 0,
+      "explanation": "Associated with Sitar / सितार वादक थे।"
+    },
+    {
+      "id": "aa6d1fa1",
+      "question": "Where is the Khajuraho Group of Monuments located? / खजुराहो के स्मारक कहाँ स्थित हैं?",
+      "options": [
+        "Gujarat",
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Madhya Pradesh / मध्य प्रदेश"
+      ],
+      "answer": 3,
+      "explanation": "Located in MP / मध्य प्रदेश में स्थित हैं।"
+    },
+    {
+      "id": "9d1183ee",
+      "question": "What is the traditional dance of Andhra Pradesh? / आंध्र प्रदेश का शास्त्रीय नृत्य कौन सा है?",
+      "options": [
+        "Bharatanatyam",
+        "Kuchipudi / कुचिपुडी",
+        "Manipuri",
+        "Kathak"
+      ],
+      "answer": 1,
+      "explanation": "Kuchipudi / कुचिपुडी।"
+    },
+    {
+      "id": "c43ba827",
+      "question": "Which ancient Indian epic was written by Maharishi Ved Vyas? / महर्षि वेद व्यास द्वारा रचित प्राचीन महाकाव्य कौन सा है?",
+      "options": [
+        "Mahabharata / महाभारत",
+        "Meghdoot",
+        "Ramayana",
+        "Raghuvamsha"
+      ],
+      "answer": 0,
+      "explanation": "Mahabharata / महाभारत।"
+    },
+    {
+      "id": "97870a7c",
+      "question": "Which city hosts the famous 'Durga Puja' celebrations recognized by UNESCO? / यूनेस्को मान्यता प्राप्त प्रसिद्ध 'दुर्गा पूजा' उत्सव कहाँ मुख्य रूप से मनाया जाता है?",
+      "options": [
+        "Chennai",
+        "Delhi",
+        "Mumbai",
+        "Kolkata, West Bengal / कोलकाता, पश्चिम बंगाल"
+      ],
+      "answer": 3,
+      "explanation": "Kolkata, West Bengal / कोलकाता, पश्चिम बंगाल।"
+    }
+  ]
+}
